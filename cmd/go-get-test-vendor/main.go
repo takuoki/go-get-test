@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, go get. I'm main.go")
+	fmt.Println("Hello, go get. I'm cmd/go-get-test-vendor/main.go")
 	lib.Print()
 }
