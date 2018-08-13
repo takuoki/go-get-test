@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	lib "go-get-test-lib"
+
+	"github.com/takuoki/go-get-test/lib"
 )
 
 func main() {
