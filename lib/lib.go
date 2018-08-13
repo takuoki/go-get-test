@@ -6,5 +6,5 @@ import (
 
 // Print is ...
 func Print() {
-	fmt.Println("I'm lib/lib.go")
+	fmt.Println("I'm .../vendor/github.com/takuoki/go-get-test/lib/lib.go")
 }
